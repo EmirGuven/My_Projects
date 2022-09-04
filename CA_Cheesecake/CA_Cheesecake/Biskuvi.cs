@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CA_Cheesecake
 {
-    public class Biskuvi:Malzeme
+    public class Biskuvi:Eylemler
     {
         public override string Al()
         {

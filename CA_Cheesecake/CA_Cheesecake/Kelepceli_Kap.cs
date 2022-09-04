@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace CA_Cheesecake
 {
-    public class Tereyagi:Eylemler
+    internal class Kelepceli_Kap:Eylemler
     {
-        public override string Al()
+        public override string Dok()
         {
-            return "Tereyagi alindi.";
+            return "Biskuvi kelepceli kaba dokuldu.";
         }
-
     }
 }

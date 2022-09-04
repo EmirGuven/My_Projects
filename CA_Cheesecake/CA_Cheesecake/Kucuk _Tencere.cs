@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace CA_Cheesecake
 {
-    public class Tereyagi:Eylemler
+    public class Kucuk__Tencere:Eylemler
     {
         public override string Al()
         {
-            return "Tereyagi alindi.";
+            return "Kucuk tencere alindi.";
         }
-
     }
 }
